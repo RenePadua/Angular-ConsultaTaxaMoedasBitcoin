@@ -3,7 +3,7 @@
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-ivy-eyjiro)
 
 
-<h1>Crie um projeto com os seguintes requisitos<h1>
+<h1>Crie um projeto com os seguintes requisitos</h1>
 
 <ul>  
     <li>Um serviço que consulte a taxa do bitcoin em USD e BRL</li>
